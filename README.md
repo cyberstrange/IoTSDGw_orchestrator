@@ -1,6 +1,4 @@
-<img width="20%" src="docs/media/img/my5g-logo.png" alt="my5G-core"/>
-
-## IoTSDGw Orquestrator (IoT Software-Defined Gateway Orquestrator)
+# IoTSDGw Orquestrator (IoT Software-Defined Gateway Orquestrator)
 
 ![GitHub](https://img.shields.io/github/license/my5G/my5G-non3GPP-access?color=blue)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/my5G/my5GCore)
@@ -8,6 +6,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/my5G/my5G-non3GPP-access)
 ![GitHub contributors](https://img.shields.io/github/contributors/my5G/my5G-non3GPP-access)
 
+<img width="20%" src="static/img/my5g-logo.png" alt="my5g-core"/>
+
+----
+<!-- TODO: add here general description of the project -->
 ----
 ## Description
 IoTSDGw Orchestrator is an open source implementation to provide container-based virtualization infrastructure for unreliable non 3GPP access to 5GCN between a LoRaWAN gateway and the data network at the core of the 5G network.
