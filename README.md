@@ -1,4 +1,4 @@
-<img width="20%" src="static/img/my5g-logo.png" alt="my5g-core"/>
+<img width="12%" src="static/img/my5g-logo.png" alt="my5g-core"/>
 
 # IoTSDGw Orquestrator (IoT Software-Defined Gateway Orquestrator)
 
