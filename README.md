@@ -14,6 +14,8 @@ IoTSDGw Orchestrator is an open source implementation to provide container-based
 
 * The project is composed of three implementation and execution scenarios.
    * Scenario 1 - Standard (end-to-end) LoRaWAN network, running isolated IoTSDGw Forwarder, i.e. without 5G core.
+     * --
+     * --
    * Scenario 2 - One-time IoTSDGw integration, between gateway and network server via non-3GPP untrusted access (full model).
    * Scenario 3. Integration with multiple and concurrent IoTSDGws, in order to keep up with scalability.
 
