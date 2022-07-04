@@ -1,3 +1,5 @@
+<img width="20%" src="static/img/my5g-logo.png" alt="my5g-core"/>
+
 # IoTSDGw Orquestrator (IoT Software-Defined Gateway Orquestrator)
 
 ![GitHub](https://img.shields.io/github/license/my5G/my5G-non3GPP-access?color=blue)
@@ -6,9 +8,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/my5G/my5G-non3GPP-access)
 ![GitHub contributors](https://img.shields.io/github/contributors/my5G/my5G-non3GPP-access)
 
-<img width="20%" src="static/img/my5g-logo.png" alt="my5g-core"/>
-
-----
 <!-- TODO: add here general description of the project -->
 ----
 ## Description
