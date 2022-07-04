@@ -24,4 +24,4 @@ For contribution, please reference to [guidelines](https://github.com/my5G/templ
 
 ## License
 
-Iotsdgw Orquestrator is now under [Apache 2.0](https://github.com/my5G/my5G-non3GPP-access/blob/master/LICENSE) license.
+IoTSDGw Orquestrator is now under [Apache 2.0](https://github.com/my5G/my5G-non3GPP-access/blob/master/LICENSE) license.
