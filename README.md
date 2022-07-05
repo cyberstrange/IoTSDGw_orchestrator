@@ -14,7 +14,7 @@
 IoTSDGw Orchestrator is an open source implementation to provide container-based virtualization infrastructure for unreliable non 3GPP access to 5GCN between a LoRaWAN gateway and the data network at the core of the 5G network.
 
 <p align="center">
-    <img width="80%" src="images/architecture_iotsdgw.png"/> 
+    <img width="70%" src="images/architecture_iotsdgw.png"/> 
 </p>
 
 ----
