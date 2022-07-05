@@ -19,7 +19,7 @@ IoTSDGw Orchestrator is an open source implementation to provide container-based
      * --
    * Scenario 2 - One-time IoTSDGw integration, between gateway and network server via non-3GPP untrusted access (full model).
    * Scenario 3 - Integration with multiple and concurrent IoTSDGws, in order to keep up with scalability.
-
+([tutorial](docs/non3gpp-iot-use-case/non3gpp-iot-use-case.md)<!--, [video](http://youtubecom/)-->)
 
 If you have questions or comments, please email us: [my5G team](mailto:my5G.initiative@gmail.com). 
 
